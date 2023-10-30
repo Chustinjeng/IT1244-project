@@ -135,7 +135,7 @@ class Model(nn.Module):
     """
     def __init__(self, num_vocab):
         super().__init__()
-        # define your model attributes here
+        # define model attributes 
         self.embedding_dim = 8 # define embedding dimensions (hyperparameter)
         self.embedding = nn.Embedding(num_vocab, self.embedding_dim) # transform words into embeddings
         self.first_layer_dim = 24 # define first layer dimension (hyperparameter)
