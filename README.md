@@ -12,6 +12,7 @@ git clone https://github.com/Chustinjeng/IT1244-project
 
 2. Go into the directory of IT1244-project
 
+
 3. To train the model, in your terminal, type 
 ```shell
 python3 sentiment.py --train --text_path x_train.txt --label_path y_train.txt --model_path model.pt --bigram 
@@ -22,6 +23,7 @@ if you want to train the model using bigrams
 python3 sentiment.py --train --text_path x_train.txt --label_path y_train.txt --model_path model.pt --trigram 
 ```
 if you want to train the model using trigrams
+
 
 4. To test the model on the accuracy, in your terminal, type
 ```shell
@@ -34,7 +36,8 @@ python3 sentiment.py --test --text_path x_test.txt --model_path model.pt --outpu
 ```
 if you want to test the model using trigrams
 
-**Please choose the same type across training and testing! Otherwise the accuracy will plummet :sad:**
+***Please choose the same type across training and testing! Otherwise the accuracy will plummet :sad:***
+
 
 5. To calculate the accuracy of the model, in your terminal, type
 ```shell
