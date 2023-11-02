@@ -1,2 +1,6 @@
 model.pt
 out.txt
+x_train.txt
+x_test.txt
+y_train.txt
+y_test.txt
