@@ -6,3 +6,7 @@ x_test.txt
 y_test.txt
 data/neg
 data/pos
+model_bigram.pt
+model_trigram.pt
+out_bigram.txt
+out_trigram.txt
