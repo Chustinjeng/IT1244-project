@@ -4,3 +4,5 @@ x_train.txt
 y_train.txt
 x_test.txt
 y_test.txt
+data/neg
+data/pos
