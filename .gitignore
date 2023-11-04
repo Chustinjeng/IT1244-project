@@ -8,5 +8,7 @@ data/neg
 data/pos
 model_bigram.pt
 model_trigram.pt
+model_unigram.txt
 out_bigram.txt
 out_trigram.txt
+out_unigram.txt
