@@ -6,4 +6,4 @@ To run our code, you should have python3 installed in your local machine.
 
 ## Instructions
 
-All instructions, with documentation and explanation, have been written in the same notebook as the code. Do follow these instructions and you will be able to see the results of our model!
+All instructions, with documentation and explanation, have been written in the same notebook as the code. Do follow the instructions and run the cells and you will be able to see the results of our model!
